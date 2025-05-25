@@ -1,1 +1,1 @@
-# KCC-Q-A-Assistant
+# KCC Q&A Assistant
