@@ -3,7 +3,7 @@
 
 KCC Query Assistant - Offline AI Application
 
-## Project Title: KCC Agriculture Q&A Assistant [Query Assistnat}
+## Project Title: KCC Agriculture Q&A Assistant [Query Assistnat]
 
 Author:
 DHANYATHA S
