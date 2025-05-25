@@ -1,5 +1,8 @@
 # KCC Q&A Assistant
 
+>[!Important]
+>This Repository is public because i couldn't find 'vicharanalabs' on collaborator
+><img width="497" alt="image" src="https://github.com/user-attachments/assets/1913d930-5ea3-4b26-810e-55ddd0b3967a" />
 
 KCC Query Assistant - Offline AI Application
 
