@@ -232,9 +232,9 @@ KCCQueryAssistant/
 │   ├── raw_kcc_data.csv
 │   └── processed_kcc_data.csv
 ├── embeddings/
-│   └── faiss_index/
+│   └── vector_store.py
 ├── models/
-│   └── flan-t5/
+│   └── offline_llm.py
 ├── app.py
 ├── utils/
 │   ├── preprocess.py
