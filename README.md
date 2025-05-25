@@ -33,7 +33,7 @@ Works fully offline but supports fallback Internet search.
 
 
 >[!NOTE] 
->Insted of Internet fallback this system has fallback Knowledge based quries and responses curated with semantic search.
+>Instead of Internet fallback this system has fallback Knowledge based quries and responses curated with semantic search.
 
 ## Objectives
 
